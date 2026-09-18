@@ -1,0 +1,76 @@
+{
+  "daily_schedule": [
+    {
+      "activity": "Wake up, drink a glass of water with methi seeds soaked overnight. Check blood sugar (if instructed by doctor).",
+      "time": "6:00 AM"
+    },
+    {
+      "activity": "Breakfast - Whole wheat roti with dal or paneer bhurji and a glass of unsweetened lassi. Dhyan rakhein, roti kam tel mein banao.",
+      "time": "8:00 AM"
+    },
+    {
+      "activity": "Lunch - Brown rice with mixed vegetable sabzi (like bhindi, palak, or gobi) and a bowl of dal. Avoid oily curries.",
+      "time": "1:00 PM"
+    },
+    {
+      "activity": "Evening Snack - A handful of almonds or walnuts, or a small bowl of sprouts. Chai without sugar is okay.",
+      "time": "4:00 PM"
+    },
+    {
+      "activity": "Dinner - Whole wheat roti (1-2) with vegetable curry and a small bowl of yogurt. Light dinner is key!",
+      "time": "7:00 PM"
+    },
+    {
+      "activity": "Short walk (15-20 minutes) indoors or on a flat surface if leg allows. Check blood sugar (if instructed by doctor).",
+      "time": "9:00 PM"
+    }
+  ],
+  "emergency_advice": [
+    "If you experience symptoms of hypoglycemia (low blood sugar), such as shakiness, sweating, dizziness, or confusion, consume a quick source of sugar (e.g., glucose tablets, juice) and check your blood sugar. If symptoms persist, seek medical attention immediately.",
+    "If you experience symptoms of hyperglycemia (high blood sugar), such as increased thirst, frequent urination, blurred vision, or fatigue, check your blood sugar and follow your doctor's instructions. If symptoms are severe, seek medical attention immediately."
+  ],
+  "exercise_plan": [
+    {
+      "activity": "Seated Leg Exercises",
+      "duration_minutes": 15,
+      "instructions": "While sitting, perform leg extensions, ankle rotations, and calf raises. Consult a physiotherapist for personalized exercises considering the leg injury."
+    },
+    {
+      "activity": "Chair Yoga",
+      "duration_minutes": 20,
+      "instructions": "Gentle yoga poses performed while seated. Focus on stretching and improving flexibility. Search online for 'chair yoga for beginners'."
+    },
+    {
+      "activity": "Light Walking (if possible)",
+      "duration_minutes": 15,
+      "instructions": "If your leg allows, take a short, slow walk on a flat surface. Use a walking aid if needed. Stop immediately if you feel pain."
+    }
+  ],
+  "generated_at": "2025-12-05T20:33:39.515975",
+  "medication_schedule": [
+    "Take prescribed diabetes medication as directed by your doctor. Set reminders on your phone.",
+    "Monitor blood sugar levels at the times recommended by your doctor. Keep a log."
+  ],
+  "model_used": "gemini-2.0-flash",
+  "monitoring_tips": [
+    "Check blood sugar levels regularly as advised by your doctor. Keep a log and share it with your doctor.",
+    "Monitor your weight weekly. Any sudden weight gain or loss should be reported to your doctor.",
+    "Check your feet daily for any cuts, blisters, or sores, especially due to your leg injury. Report any issues to your doctor immediately."
+  ],
+  "nutrition_plan": {
+    "breakfast": "Whole wheat roti (1-2) with dal (like moong or masoor) or paneer bhurji (low-fat). Avoid parathas with ghee. Unsweetened lassi or plain yogurt.",
+    "dinner": "Whole wheat roti (1-2) with vegetable curry (avoid potatoes and sweet potatoes). Small bowl of plain yogurt or raita. Ensure it's a light meal.",
+    "lunch": "Brown rice (1 cup cooked) with mixed vegetable sabzi (bhindi, palak, gobi, baingan). Dal (1 bowl). Salad (cucumber, tomato, onion). Avoid white rice.",
+    "snacks": "Handful of almonds or walnuts (soaked overnight). Small bowl of sprouts (moong or chana). Sugar-free biscuits (in moderation). Avoid fried snacks like samosas or pakoras."
+  },
+  "patient_info": {
+    "age": 30,
+    "has_diabetes": true,
+    "name": "Ali Khan",
+    "risk_level": "medium"
+  },
+  "patient_summary": "Ali Khan, 30 years old, has diabetes and a medium risk level. He dislikes fruits, is vegetarian, and has a leg injury, making exercise challenging. He has an office job.",
+  "plan_overview": "This plan focuses on managing blood sugar through a balanced vegetarian diet, modified exercise routine considering his leg injury, and regular monitoring. It incorporates Indian/Pakistani food preferences and lifestyle.",
+  "source": "Gemini 2.0 AI",
+  "status": "success"
+}
