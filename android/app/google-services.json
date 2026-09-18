@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058287661455",
+    "project_id": "diabetescare-43a77",
+    "storage_bucket": "diabetescare-43a77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058287661455:android:dbe52192dd21f6fc14dbfa",
+        "android_client_info": {
+          "package_name": "com.example.diabetes_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK-9Oxd_ZGg8lOUEp9mUQNkUk7Aos-Pdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
